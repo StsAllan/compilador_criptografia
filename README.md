@@ -5,9 +5,9 @@ CryptoLang é uma IDE e Compilador de Criptografia desenvolvido com foco educaci
 O sistema permite encriptar e desencriptar mensagens usando diversos algoritmos clássicos, além de possuir uma funcionalidade de Criptoanálise Automática que utiliza análise estatística e dicionários para identificar e quebrar cifras desconhecidas.
 
 📸 Interface Visual
-![Exenplo - Encriptando Texto](exemplo_encriptando.png)
+![Exenplo - Encriptando Texto](imagens_interface/exemplo_encriptando.png)
 
-![Exemplo - Detectando Texto](exenplo_detectando.png)
+![Exemplo - Detectando Texto](imagens_interface/exemplo_detectando.png)
 
 ✨ Funcionalidades Principais
 1. Compilador Dedicado
