@@ -10,10 +10,9 @@ O sistema permite encriptar e desencriptar mensagens usando diversos algoritmos 
 
 ## 📸 Interface Visual
 
-> *[Insira aqui uma captura de tela da sua aplicação rodando]*
->
-> *Interface moderna com tema escuro, editor de código e console de saída integrado.*
+![Exenplo - Encriptando Texto](imagens_interface/exemplo_encriptando.png)
 
+![Exemplo - Detectando Texto](imagens_interface/exemplo_detectando.png)
 ---
 
 ## ✨ Funcionalidades Principais
